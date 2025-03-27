@@ -1,0 +1,18 @@
+.bar {
+    /* Removed fill here; color is set dynamically in code */
+  }
+  
+  .label {
+    font-size: 12px;
+    fill: #333; /* Darker color for readability */
+  }
+  
+  .value-label {
+    font-size: 12px;
+    fill: #666; /* Slightly lighter for contrast */
+  }
+  
+  .date-label {
+    font-size: 16px;
+    font-weight: bold;
+  }
